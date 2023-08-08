@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbY92bWsc/GWzncpx/9x8hv+lHNkUQriEIxfMlPT9fMHeFlemQ3Uk2C6/6ikLSWB07PGeeHiwNy4FZulqGZO/Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\MySiteApi\\MySiteMvc\\MySiteMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mina-\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
